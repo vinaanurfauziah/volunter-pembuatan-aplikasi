@@ -6,4 +6,5 @@ Silakan gunakan format berikut:<br>
 * Nama, [LinkedIn/GitHub/Website](Alamat URL).
 
 Berikut adalah daftar Volunter yang diterima:
+* Solaria, [solaria] (https://www.instagram.com/solaria.indonesia)
 * Vini, [iloafyou] (https://github.com/iloafyou)https://github.com/iloafyou).
